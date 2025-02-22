@@ -1,3 +1,4 @@
+# Hypothesis 2 Repository Overview
 # Weather vs Traffic Analysis
 
 This repository contains scripts for analyzing and visualizing the relationship between weather conditions and traffic patterns. Our analysis is segmented into different time periods to understand the impact of COVID-19 on traffic trends.
