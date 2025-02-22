@@ -1,7 +1,21 @@
-# Hypothesis 2 Repository Overview
-# Weather vs Traffic Analysis
+```markdown
+# Interactive Data Visualizations with Plotly
 
 This repository contains scripts for analyzing and visualizing the relationship between weather conditions and traffic patterns. Our analysis is segmented into different time periods to understand the impact of COVID-19 on traffic trends.
+
+## Installation
+
+To get started, clone this repository to your local machine.
+
+Install the required Python packages:
+
+```bash
+pip install pandas plotly
+```
+
+# Hypothesis 2 Repository Overview
+Weather vs Traffic Analysis
+
 
 ## Scripts Description
 
